@@ -8,7 +8,7 @@
 
 I'm focused on:
 
-- [Nacos](https://github.com/alibaba/nacos): Dynamic Naming and Configuration Service.
+- [<img src="https://github.com/alibaba/nacos/blob/develop/doc/Nacos_Logo.png" width=80 />](https://github.com/alibaba/nacos) Dynamic Naming and Configuration Service.
 
 <!--
 - 🌱 I’m currently learning 
