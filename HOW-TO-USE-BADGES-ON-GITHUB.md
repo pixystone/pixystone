@@ -1,5 +1,9 @@
 ### Howto
 
+[Shields Static Badge](https://shields.io/badges/static-badge)
+
+[Shields Logo Helps](https://shields.io/docs/logos)
+
 You can get link for badges with logo from this [page](https://ileriayo.github.io/markdown-badges/).
 
 ### Styles example
